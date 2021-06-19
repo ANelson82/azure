@@ -1,0 +1,22 @@
+{
+  "CUSTOMERS":
+          [
+            {
+              "CUSTOMER": {
+                "custid": 1,
+                "age": 25,
+                "name": "John Smith",
+                "demogrpahics": {"hhi": ">100k", "education":  "college"}
+              }
+            },
+            {
+              "CUSTOMER": {
+                "custid": 2,
+                "age": 43,
+                "name": "Tom brady",
+                "demogrpahics": {"hhi": ">500k", "education":  "college"},
+                "dob": "1977-08-03"
+              }
+            }
+          ]
+}
